@@ -4,4 +4,4 @@
 
 Bạn có thể truy cập danh sách các video tại link sau:
 
-[](https://www.youtube.com/playlist?list=PLUujJDuOx6BIsByGjnCAum1do3erXsl81)
+[Video Playlist at Youtube](https://www.youtube.com/playlist?list=PLUujJDuOx6BIsByGjnCAum1do3erXsl81)
